@@ -1,8 +1,10 @@
-### Hi there, Its Sikander Nawaz 👋
+# Hi there, Its Sikander Nawaz 👋
 
-**JadoGarBhai/JadoGarBhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on MERN Stack.
+## I'm Student and Front-End Developer 😉
+- 🔭 I’m currently working As Front-End Developer.
 - 🌱 I’m currently learning JavaScript.
+- 👯 I’m looking to collaborate with other content creators and developers.
+- 📢 Love to teach ##### Technology.
+- 🥅 2023 Goals: Complete MERN Stack.
+- 📫 How to reach me **[WhatsApp](https://wa.me/+923487613204)**
