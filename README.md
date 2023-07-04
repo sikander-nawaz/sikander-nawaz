@@ -9,7 +9,7 @@
 - 🥅 2023 Goals:
      -  Complete MERN Stack 😋
      -  Learn about Blockchain and Web 3.0 🤗
-     -  Start Data Structure and Algorithm 😌
+     -  Start Data Structure and Algorithm 😎
 - 👨‍🏫 Inspired by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**
 - 📫 How to reach me **[WhatsApp](https://wa.me/+923487613204)**
 
