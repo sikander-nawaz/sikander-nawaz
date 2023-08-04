@@ -4,7 +4,7 @@
  <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&pause=1000&color=000000&width=435&height=40&lines=I'm+Student+and+Front-End+Developer+%F0%9F%98%89" alt="Typing SVG" /></a> </p>
  
 - 🔭 I’m currently working as **Front-End Developer**.
-- 🌱 I’m currently learning **Advance JavaScript** and **Hypertext Preprocessor**.
+- 🌱 I’m currently learning **React** and **Hypertext Preprocessor**.
 - 👯 I’m looking to collaborate with other **Content Creators** and **Developers**.
 - 📢 Love to teach **Technology**.
 - 🥅 2023 Goals:
