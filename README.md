@@ -1,7 +1,7 @@
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's Sikander Nawaz.
+# <p align='center'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's Sikander Nawaz. </p>
 
 
- <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&pause=1000&color=000000&width=435&height=40&lines=Student+and+Front-End+Developer+%F0%9F%98%89" alt="Typing SVG" /></a> </p>
+ <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=22&pause=1000&color=000000&center=true&width=435&lines=Student+and+Front-End+Developer+%F0%9F%98%89" alt="Typing SVG" /></a> </p>
  
 - 🔭 I’m currently working as **Front-End Developer**.
 - 🌱 I’m currently learning **React** and **Hypertext Preprocessor**.
@@ -33,7 +33,7 @@
                <img src="https://th.bing.com/th/id/R.dac3406fc708c69390f478b5ee16e0fc?rik=%2fEYRaMVNx0jllw&pid=ImgRaw&r=0" alt="Bootstrap5" width="150px" height="100px">
           </td>
      </tr> 
-     <tr> 
+     <tr align='center'> 
           <td align='center'>
               <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="60"/> </a>
          </td>
