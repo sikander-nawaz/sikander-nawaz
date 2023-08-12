@@ -1,7 +1,7 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's Sikander Nawaz.
 
 
- <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&pause=1000&color=000000&width=435&height=40&lines=I'm+Student+and+Front-End+Developer+%F0%9F%98%89" alt="Typing SVG" /></a> </p>
+ <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=400&pause=1000&color=000000&width=435&height=40&lines=Student+and+Front-End+Developer+%F0%9F%98%89" alt="Typing SVG" /></a> </p>
  
 - 🔭 I’m currently working as **Front-End Developer**.
 - 🌱 I’m currently learning **React** and **Hypertext Preprocessor**.
@@ -29,11 +29,14 @@
           <td align='center'>
                <img src="https://th.bing.com/th/id/OIP.fKtEA6VSuCPh0nCy2VTnZQHaE8?pid=ImgDet&rs=1" alt="CSS"  width="150px"     height="100px">
           </td>
-     </tr> 
-     <tr> 
           <td align='center'>
                <img src="https://th.bing.com/th/id/R.dac3406fc708c69390f478b5ee16e0fc?rik=%2fEYRaMVNx0jllw&pid=ImgRaw&r=0" alt="Bootstrap5" width="150px" height="100px">
           </td>
+     </tr> 
+     <tr> 
+          <td align='center'>
+              <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="60"/> </a>
+         </td>
           <td align='center' width="190">
                <img src="https://camo.githubusercontent.com/38f539adfb5bad47c143db7a640d33122a666b8cb1fd047775f7e4fc0ac6a730/687474703a2f2f616c66612d63796265722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f576861742d69732d4a6176615363726970742e6a7067" alt="Javascript" width="150px" height="100px">
           </td>
