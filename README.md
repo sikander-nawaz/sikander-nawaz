@@ -34,8 +34,11 @@
           </td>
      </tr> 
      <tr align='center'> 
+      <td align='center'>
+              <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="150px" height="100px"/> </a>
+         </td>
           <td align='center'>
-              <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="60"/> </a>
+              <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="150px" height="100px">
          </td>
           <td align='center' width="190">
                <img src="https://camo.githubusercontent.com/38f539adfb5bad47c143db7a640d33122a666b8cb1fd047775f7e4fc0ac6a730/687474703a2f2f616c66612d63796265722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f576861742d69732d4a6176615363726970742e6a7067" alt="Javascript" width="150px" height="100px">
