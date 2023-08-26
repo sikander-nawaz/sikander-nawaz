@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning:
      -  **React**
      -  **Git**
-     -  **Hypertext Preprocessor**
+     -  **MySQL**
 - 👯 I’m looking to collaborate with other **Content Creators** and **Developers**.
 - 📢 Love to teach **Technology**.
 - 🥅 2023 Goals:
