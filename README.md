@@ -1,20 +1,25 @@
+ <!-- 
 # <p align='center'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's Sikander Nawaz</p>
 
 
  <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=22&pause=1000&color=000000&center=true&width=435&lines=Student+and+Front-End+Developer+%F0%9F%98%89" alt="Typing SVG" /></a> </p>
  
+
 - 🔭 I’m currently working as **Front-End Developer**.
 - 🌱 I’m currently learning:
      -  **React**
      -  **Git**
-     -  **MySQL**
 - 👯 I’m looking to collaborate with other **Content Creators** and **Developers**.
 - 📢 Love to teach **Technology**.
 - 🥅 2023 Goals:
      -  Complete **MERN Stack** 😋
      -  Learn about **Blockchain** and **Web 3.0** 🤗
      -  Start **Data Structure and Algorithm** 😎
-- 👨‍🏫 Inspired by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**
+ -->
+ 
+# 👨‍🏫 Inspired by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**
+
+<!--
 - 📫 How to reach me **[WhatsApp](https://wa.me/+923487613204)**
 
 
@@ -63,5 +68,6 @@
           <img height="180em" width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JadoGarBhai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
           <img height="180em" width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JadoGarBhai&layout=compact&langs_count=8&theme=algolia"/>
      </a>
-<!--      <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=JadoGarBhai&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" /> -->
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=JadoGarBhai&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" /> 
 </p>
+-->
