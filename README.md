@@ -10,7 +10,7 @@
      -  **React**
      -  **Git**
 - 👯 I’m looking to collaborate with other **Content Creators** and **Developers**.
-- 📢 Love to teach **Technology**.
+- 📢 Love to teach **Technology**
 - 🥅 2023 Goals:
      -  Complete **MERN Stack** 😋
      -  Learn about **Blockchain** and **Web 3.0** 🤗
