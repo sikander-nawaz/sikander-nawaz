@@ -17,7 +17,7 @@
      -  Start **Data Structure and Algorithm** 😎
  -->
  
-# 👨‍🏫 Inspired by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**
+# 👨‍🏫 Inspired by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**.
 
 <!--
 - 📫 How to reach me **[WhatsApp](https://wa.me/+923487613204)**
