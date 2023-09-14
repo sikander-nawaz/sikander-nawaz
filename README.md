@@ -6,7 +6,7 @@
  
 
 - 🔭 I’m currently working as **Front-End Developer**.
-- 🌱 I’m currently learning:
+- 🌱 I’m currently learning:-
      -  **React**
      -  **Git**
 - 👯 I’m looking to collaborate with other **Content Creators** and **Developers**.
