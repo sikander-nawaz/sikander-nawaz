@@ -24,7 +24,7 @@
 
 
 
-<h2><i>🛠️ Languages and Tools.</i></h2>
+<h2><i>🛠️ Languages and Tools</i></h2>
 
 <table width="100" align='center'>
      <tr>
