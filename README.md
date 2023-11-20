@@ -19,7 +19,7 @@
  
 # 👨‍🏫 Inspired by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**.
 
-
+ <!-- 
 - 📫 How to reach me **[WhatsApp](https://wa.me/+923487613204)**
 
 
@@ -99,4 +99,4 @@
      </a>
     <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=JadoGarBhai&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" /> 
 </p>
-
+-->
