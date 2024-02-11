@@ -1,28 +1,20 @@
- <!-- 
-# <p align='center'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's Sikander Nawaz..</p>
+
+# <p align='center'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's Sikander Nawaz.</p>
 
 
- <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=22&pause=1000&color=000000&center=true&width=435&lines=Student+and+Front-End+Developer+%F0%9F%98%89" alt="Typing SVG" /></a> </p>
+ <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=22&pause=1000&color=000000&center=true&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%98%8E" alt="Typing SVG" /></a> </p>
  
 
-- 🔭 I’m currently working as **Front-End Developer**.
-- 🌱 I’m currently learning:-
-     -  **React**.
-     -  **Git**
+- 🔭 I’m currently working as **Full Stack Developer**.
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 - 👯 I’m looking to collaborate with other **Content Creators** and **Developers**.
 - 📢 Love to teach **Technology**
-- 🥅 2023 Goals:
-     -  Complete **MERN Stack** 😋.
+- 🥅 2024 Goals:
+     -  Complete **DSA** 😋
+     -  Minimum 200 **[LeetCode](https://leetcode.com/sikander_09/) prpblems** 😎
      -  Learn about **Blockchain** and **Web 3.0** 🤗
-     -  Start **Data Structure and Algorithm** 😎
- -->
- 
-# 👨‍🏫 Inspired by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**
-
- <!-- 
-- 📫 How to reach me **[WhatsApp](https://wa.me/+923487613204)**
-
-
+-  👨‍🏫 Inspired by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**
+-  📫 How to reach me **[WhatsApp](https://wa.me/+923487613204)**
 
 <h2><i>🛠️ Languages and Tools</i></h2>
 
@@ -100,4 +92,4 @@
     <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=JadoGarBhai&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" /> 
 </p>
 
--->
+
