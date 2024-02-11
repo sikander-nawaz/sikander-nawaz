@@ -1,5 +1,5 @@
 
-# <p align='center'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's Sikander Nawaz.</p>
+<!-- # <p align='center'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's Sikander Nawaz.</p>
 
 
  <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=22&pause=1000&color=000000&center=true&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%98%8E" alt="Typing SVG" /></a> </p>
@@ -32,8 +32,9 @@
           <td align='center'>
                <img src="https://th.bing.com/th/id/R.dac3406fc708c69390f478b5ee16e0fc?rik=%2fEYRaMVNx0jllw&pid=ImgRaw&r=0" alt="Bootstrap5" width="150px" height="100px">
           </td>
-          <td align='center'>
-              <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="150px" height="100px"/>
+      
+         <td align='center'>
+             <img src="https://camo.githubusercontent.com/b5f27aefb15ecab7e73bca90e0fb115ab4102bd1b31c29eb110d90113862dd94/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632323030383732323232372f5265734e63775a7970682e706e67" alt="react" width="150px" height="100px"/> </a>
          </td>
      </tr> 
      <tr align='center'> 
@@ -46,9 +47,7 @@
          <td align='center' width="190">
                <img src="https://camo.githubusercontent.com/38f539adfb5bad47c143db7a640d33122a666b8cb1fd047775f7e4fc0ac6a730/687474703a2f2f616c66612d63796265722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f576861742d69732d4a6176615363726970742e6a7067" alt="Javascript" width="150px" height="100px">
          </td>
-         <td align='center'>
-             <img src="https://camo.githubusercontent.com/b5f27aefb15ecab7e73bca90e0fb115ab4102bd1b31c29eb110d90113862dd94/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632323030383732323232372f5265734e63775a7970682e706e67" alt="react" width="150px" height="100px"/> </a>
-         </td>
+
          <td align='center'>
              <img src="https://camo.githubusercontent.com/f31e56c8f4e1c271dae3a1ebbd94a3b492b80965fed410dbc7fce1b05cdcb9c3/68747470733a2f2f616c65787361766561752e6465762f6173736574732f66697265626173652f6669726573746f72652d62616e6e65722e706e67" alt="cloud-firestore" width="150px" height="100px"/> </a>
          </td>
@@ -92,4 +91,4 @@
     <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sikander-nawaz&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" /> 
 </p>
 
-
+-->
