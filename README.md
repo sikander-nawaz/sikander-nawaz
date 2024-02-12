@@ -74,6 +74,15 @@
           <td align='center'>
                <img src="./images/DSA.jpg" alt="scss" width="150px" height="100px"/>
           </td>
+          <td align='center'>
+               <img src="./images/vscode.svg" alt="vscode" width="150px" height="100px"/>
+          </td>
+          <td align='center'>
+               <img src="./images/git.webp" alt="git" width="150px" height="100px"/>
+          </td>
+          <td align='center'>
+               <img src="./images/Github.png" alt="github" width="150px" height="100px"/>
+          </td>
      </tr>
 </table>
 
