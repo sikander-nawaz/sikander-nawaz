@@ -1,57 +1,56 @@
-
-<!-- # <p align='center'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's Sikander Nawaz.</p>
-
+# <p align='center'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's Sikander Nawaz.</p>
 
  <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=22&pause=1000&color=000000&center=true&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%98%8E" alt="Typing SVG" /></a> </p>
- 
 
 - 🔭 I’m currently working as **Full Stack Developer**.
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 - 👯 I’m looking to collaborate with other **Content Creators** and **Developers**.
 - 📢 Love to teach **Technology**
 - 🥅 2024 Goals:
-     -  Complete **DSA** 😋
-     -  Minimum 200 **[LeetCode](https://leetcode.com/sikander_09/) problems** 😎
-     -  Learn about **Blockchain** and **Web 3.0** 🤗
--  👨‍🏫 Inspired by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**
--  📫 How to reach me **[WhatsApp](https://wa.me/+923487613204)**
+  - Complete **DSA** 😋
+  - Minimum 200 **[LeetCode](https://leetcode.com/sikander_09/) problems** 😎
+  - Learn about **Blockchain** and **Web 3.0** 🤗
+- 👨‍🏫 Inspired by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**
+- 📫 How to reach me **[WhatsApp](https://wa.me/+923487613204)**
 
 <h2><i>🛠️ Languages and Tools</i></h2>
 
 <table width="100" align='center'>
      <tr>
           <td align='center'>
-             <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS-CODE"  width="150px" height="100px">
+             <img src="./images/html.webp" alt="htm" width="150px" height="100px">
           </td>
           <td align='center'>
-               <img src="https://geekofcoding.files.wordpress.com/2020/09/images.png" alt="HTML"  width="150px" height="100px">
+               <img src="./images/css2.png" alt="css" width="150px" height="100px">
           </td>
           <td align='center'>
-               <img src="https://th.bing.com/th/id/OIP.fKtEA6VSuCPh0nCy2VTnZQHaE8?pid=ImgDet&rs=1" alt="CSS"  width="150px"     height="100px">
+               <img src="./images/bootstrap.png" alt="bootstrap"width="150px" height="100px">
           </td>
           <td align='center'>
-               <img src="https://th.bing.com/th/id/R.dac3406fc708c69390f478b5ee16e0fc?rik=%2fEYRaMVNx0jllw&pid=ImgRaw&r=0" alt="Bootstrap5" width="150px" height="100px">
+               <img src="./images/JS.jpg" alt="js" width="150px" height="100px">
           </td>
-      
+
          <td align='center'>
-             <img src="https://camo.githubusercontent.com/b5f27aefb15ecab7e73bca90e0fb115ab4102bd1b31c29eb110d90113862dd94/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632323030383732323232372f5265734e63775a7970682e706e67" alt="react" width="150px" height="100px"/> </a>
+             <img src="./images/react.webp" alt="react" width="150px" height="100px"/> </a>
          </td>
-     </tr> 
-     <tr align='center'> 
+     </tr>
+
+     <tr align='center'>
           <td align='center'>
-              <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="150px" height="100px">
+              <img src="./images/firebase.png" alt="firebase" width="150px" height="100px">
          </td>
          <td align='center'>
-             <img src="https://camo.githubusercontent.com/6f9570aff7d235de6c1661ac7bd99751180bd33fbe9ef2b87ccc501e8308643b/68747470733a2f2f7777772e74616476697365722e72752f696d616765732f642f64362f5468756d626e61696c5f313635303238383832332e6a7067" alt="Github"  width="150px" height="100px">
+             <img src="./images/cloud-firestore.jpg" alt="firestore" width="150px" height="100px">
          </td>
-         <td align='center' width="190">
-               <img src="https://camo.githubusercontent.com/38f539adfb5bad47c143db7a640d33122a666b8cb1fd047775f7e4fc0ac6a730/687474703a2f2f616c66612d63796265722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f576861742d69732d4a6176615363726970742e6a7067" alt="Javascript" width="150px" height="100px">
+         <td align='center'>
+               <img src="./images/express-js.png" alt="expressJS" width="150px" height="100px">
          </td>
 
          <td align='center'>
              <img src="https://camo.githubusercontent.com/f31e56c8f4e1c271dae3a1ebbd94a3b492b80965fed410dbc7fce1b05cdcb9c3/68747470733a2f2f616c65787361766561752e6465762f6173736574732f66697265626173652f6669726573746f72652d62616e6e65722e706e67" alt="cloud-firestore" width="150px" height="100px"/> </a>
          </td>
      </tr>
+
  <tr>
   <td align='center'>
       <img src="https://camo.githubusercontent.com/a4abec299abf3d08575102bacb39294ea0ee662775183bca4c235d17478aba78/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f4f49502e78384c6a555570504e4d7772757444356d6565327077486144793f7069643d496d674465742672733d31" alt="firebase" width="150px" height="100px"/>
@@ -72,14 +71,13 @@
    <img src="https://camo.githubusercontent.com/d2455b820bd3bd55af518aa8ed69306ac631b4e03c0cc8a2fa6975c1939db75c/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f4f49502e67315a76612d726c3047554646422d5f417179726e41486146433f7069643d496d674465742672733d31" alt="sass" width="150px" height="100px"/>
   </td>
  </tr>
- 
+
  <tr>
    <td align='center'>
    <img src="https://camo.githubusercontent.com/a769c0730c35b7533032dc86ee2505ff006d5cdf5f0eb40279a446fae2124b08/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f7072656d69756d2f706e672d3235362d7468756d622f736373732d332d3233363239342e706e67" alt="scss" width="150px" height="100px"/>
   </td>
  </tr>
 </table>
-
 
   <h2><i>⚙️ GitHub Analytics</i></h2>
 
@@ -88,7 +86,5 @@
           <img height="180em" width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sikander-nawaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
           <img height="180em" width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sikander-nawaz&layout=compact&langs_count=8&theme=algolia"/>
      </a>
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sikander-nawaz&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" /> 
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sikander-nawaz&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
-
--->
