@@ -8,7 +8,7 @@
 - 📢 Love to teach **Technology**
 - 🥅 2024 Goals:
   - Complete **DSA** 😋
-  - Minimum 200 **[LeetCode](https://leetcode.com/sikander_09/) problems** 😎
+  - Minimum 400 **[LeetCode](https://leetcode.com/sikander_09/) problems** 😎
   - Learn about **Blockchain** and **Web 3.0** 🤗
 - 👨‍🏫 Inspired by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**
 - 📫 How to reach me **[WhatsApp](https://wa.me/+923487613204)**
