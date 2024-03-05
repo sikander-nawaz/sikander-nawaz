@@ -18,7 +18,7 @@
 <table width="100" align='center'>
      <tr>
           <td align='center'>
-             <img src="./images/html.webp" alt="htm" width="150px" height="100px">
+             <img src="./images/html.webp" alt="html" width="150px" height="100px">
           </td>
           <td align='center'>
                <img src="./images/css2.png" alt="css" width="150px" height="100px">
