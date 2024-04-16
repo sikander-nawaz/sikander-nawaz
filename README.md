@@ -11,7 +11,7 @@
   - Minimum 400 **[LeetCode](https://leetcode.com/sikander_09/) problems** 😎
   - Learn about **Blockchain** and **Web 3.0** 🤗
 - 👨‍🏫 Inspired by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**
-- 📫 How to reach me **[WhatsApp](https://wa.me/+923487613204)**
+- 📫 How to reach me **[Email](sikandernawaz295@gmail.com)**
 
 <h2><i>🛠️ Languages and Tools</i></h2>
 
