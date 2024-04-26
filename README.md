@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **Full Stack Developer**.
 - 👨‍🏫 Volunteer Python trainer at [iCodeGuru](www.icodeguru.weebly.com)
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 Deep diving into **Data Structures and Algorithms**
 - 👯 I’m looking to collaborate with other **Content Creators** and **Developers**.
 - 📢 Love to teach **Technology**
 - 🥅 2024 Goals:
