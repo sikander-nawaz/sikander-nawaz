@@ -3,7 +3,7 @@
  <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=22&pause=1000&color=000000&center=true&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%98%8E" alt="Typing SVG" /></a> </p>
 
 - 🔭 Currently working As a Full Stack Developer.
-- 🖥️ Offers volunteer teaching in Python and DSA at [iCodeGuru](www.icodeguru.weebly.com), emphasizing LeetCode.
+- 🖥️ Offers volunteer teaching in Python and DSA at [iCodeGuru](https://icodeguru.weebly.com/), emphasizing LeetCode.
 - 🏆 Solving Data Structures & Algorithms problems on [Leetcode](https://leetcode.com/u/sikander_09/).
 - 📢 Actively participating in coding competitions & hackathons.
 - 🌱 PhD candidate aiming to pursue studies in the United States to advance in the tech field.
