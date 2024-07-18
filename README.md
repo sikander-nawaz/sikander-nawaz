@@ -29,7 +29,10 @@
              <img src="./images/react.webp" alt="react" width="150px" height="100px"/> </a>
          </td>
      </tr>
-     <tr align='center'>
+     <tr>
+          <td align='center'>
+               <img src="./images/nextjs.png" alt="nextjs" width="150px" height="100px"/>
+          </td>
           <td align='center'>
               <img src="./images/react-native.png" alt="react-native" width="150px" height="100px">
          </td>
@@ -42,11 +45,11 @@
          <td align='center'>
                <img src="./images/express-js.png" alt="expressJS" width="150px" height="100px">
          </td>
-         <td align='center'>
-             <img src="./images/node-js.webp" alt="nodeJS" width="150px" height="100px"/> </a>
-         </td>
      </tr>
      <tr>
+          <td align='center'>
+             <img src="./images/node-js.webp" alt="nodeJS" width="150px" height="100px"/> </a>
+         </td>
           <td align='center'>
                <img src="./images/mongo-db.png" alt="mongoDB" width="150px" height="100px"/>
           </td>
@@ -59,16 +62,13 @@
           <td align='center'>
                <img src="./images/scss.webp" alt="mongo-db" width="150px" height="100px"/>
           </td>
-          <td align='center'>
-               <img src="./images/python.png" alt="sass" width="150px" height="100px"/>
-          </td>
      </tr>
      <tr>
           <td align='center'>
-               <img src="./images/java.webp" alt="scss" width="150px" height="100px"/>
+               <img src="./images/python.png" alt="sass" width="150px" height="100px"/>
           </td>
           <td align='center'>
-               <img src="./images/DSA.jpg" alt="scss" width="150px" height="100px"/>
+               <img src="./images/DSA.jpg" alt="dsa" width="150px" height="100px"/>
           </td>
           <td align='center'>
                <img src="./images/vscode.svg" alt="vscode" width="150px" height="100px"/>
