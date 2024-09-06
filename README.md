@@ -2,11 +2,11 @@
 
  <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=segoe+ui&weight=500&size=20&pause=1000&color=000000&vCenter=true&width=435&lines=Full+Stack+Developer+and+Volunteer+Trainer+😉" alt="Typing SVG" /></a> </p>
 
-- Solving Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/sikander_09/)**
+- Solving Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/sikander_09/)**.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Voluntarily taught a Duolingo course to underprivileged students
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@sikander_09) in multiple AI International Hackathons with a global team of six.
-- 🌱 PhD candidate aiming to pursue studies in the United States to advance in the tech field.
+- **@Stanford University**: [Selected](https://www.linkedin.com/feed/update/urn:li:activity:7223990886295064576/) as a Section Leader to teach Python to international students.
 - 👨‍🏫 Inspired by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**
 
 <h2><i>🛠️ Languages and Tools</i></h2>
