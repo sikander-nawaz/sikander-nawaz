@@ -1,6 +1,6 @@
 # <p align='center'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's Sikander Nawaz.</p>
 
- <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=22&pause=1000&color=000000&center=true&random=false&width=435&lines=Full+Stack+Developer+%F0%9F%98%8E" alt="Typing SVG" /></a> </p>
+ <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=segoe+ui&weight=500&size=20&pause=1000&color=000000&vCenter=true&width=435&lines=Full+Stack+Developer+and+Volunteer+Trainer+😉" alt="Typing SVG" /></a> </p>
 
 - 🔭 Currently working As a Full Stack Developer.
 - 🖥️ Offers volunteer teaching in Python and DSA at [iCodeGuru](https://icode.guru/), emphasizing LeetCode.
