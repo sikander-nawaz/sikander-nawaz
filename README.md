@@ -3,8 +3,8 @@
  <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=segoe+ui&weight=500&size=20&pause=1000&color=000000&vCenter=true&width=435&lines=Full+Stack+Developer+and+Volunteer+Trainer+😉" alt="Typing SVG" /></a> </p>
 
 - Solving Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/sikander_09/)**
-- 🖥️ Offers volunteer teaching in Python and DSA at [iCodeGuru](https://icode.guru/), emphasizing LeetCode.
-- 🏆 Solving Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/sikander_09/)**
+- **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
+- **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Voluntarily taught a Duolingo course to underprivileged students
 - 📢 Actively participating in coding competitions & hackathons.
 - 🌱 PhD candidate aiming to pursue studies in the United States to advance in the tech field.
 - 👨‍🏫 Inspired by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**
