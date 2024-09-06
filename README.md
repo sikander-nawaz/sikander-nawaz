@@ -8,7 +8,7 @@
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@sikander_09) in multiple AI International Hackathons with a global team of six.
 - **@Stanford University**: [Selected](https://www.linkedin.com/feed/update/urn:li:activity:7223990886295064576/) as a Section Leader to teach Python to international students.
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184638208993873920/) at CS50x Puzzle Day 2024 by solving 9/9 complex puzzles.
-- 👨‍🏫 Inspired by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**
+- **Inspired** by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**
 
 <h2><i>🛠️ Languages and Tools</i></h2>
 
