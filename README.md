@@ -5,7 +5,7 @@
 - Solving Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/sikander_09/)**
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Voluntarily taught a Duolingo course to underprivileged students
-- 📢 Actively participating in coding competitions & hackathons.
+- **@lablab.ai**: [Participated](https://lablab.ai/u/@sikander_09) in multiple AI International Hackathons with a global team of six.
 - 🌱 PhD candidate aiming to pursue studies in the United States to advance in the tech field.
 - 👨‍🏫 Inspired by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**
 
