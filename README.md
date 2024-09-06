@@ -2,7 +2,7 @@
 
  <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=segoe+ui&weight=500&size=20&pause=1000&color=000000&vCenter=true&width=435&lines=Full+Stack+Developer+and+Volunteer+Trainer+😉" alt="Typing SVG" /></a> </p>
 
-- Solving Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/sikander_09/)**.
+- **@[Leetcode](https://leetcode.com/u/sikander_09/)**: Solving Data Structures & Algorithms problems.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Voluntarily taught a Duolingo course to underprivileged students
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@sikander_09) in multiple AI International Hackathons with a global team of six.
