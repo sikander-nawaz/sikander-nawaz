@@ -92,11 +92,11 @@
 
 </p>
 
-## _🧑🏻‍🏫 Tech Session at iCodeGuru_
+## _👨‍🏫 Tech Session at iCodeGuru_
 
-|          Course Name          | Trainers | Moderators |  Status   |
-| :---------------------------: | :------: | :--------: | :-------: |
-| Python for Absolute Beginners | SN,AR,AQ |   TR,BY    | Completed |
+|                                         Course Name                                          |                                                                                                   Trainers                                                                                                   |                   Moderators                   |  Status   |
+| :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------: | :-------: |
+| [Python for Absolute Beginners](https://github.com/sikander-nawaz/Python_Volunteer_Teaching) | [Sir Adeel Qureshi](https://www.linkedin.com/in/adeelrqureshi/) &nbsp; [Sir Asad ur Rehman](https://www.linkedin.com/in/asadurrahman1/) &nbsp; [Sikander Nawaz](https://www.linkedin.com/in/sikander-nawaz/) | [Tayyab Rehan](https://github.com/tayyabrehan) | Completed |
 
 ## _⚙️ GitHub Analytics_
 
