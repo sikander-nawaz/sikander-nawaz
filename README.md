@@ -10,7 +10,7 @@
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184638208993873920/) at CS50x Puzzle Day 2024 by solving 9/9 complex puzzles.
 - **Inspired** by **[Sir Anas](https://github.com/AnasJMirza)** and **[Sir Ahmad](https://github.com/Ahmadjajja)**
 
-<h2><i>🛠️ Languages and Tools</i></h2>
+## _🛠️ Languages and Tools_
 
 <table width="100" align='center'>
      <tr>
@@ -83,7 +83,7 @@
      </tr>
 </table>
 
-<h2><i>🤝 Connect with Me</i></h2>
+## _🤝 Connect with Me_
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sikander-nawaz/"><img src="https://img.shields.io/badge/-Sikander%20Nawaz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -92,7 +92,7 @@
 
 </p>
 
-<h2><i>⚙️ GitHub Analytics</i></h2>
+## _⚙️ GitHub Analytics_
 
 <p align="center">
      <a href="https://github.com/sikander-nawaz">
