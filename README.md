@@ -92,6 +92,12 @@
 
 </p>
 
+## _🧑🏻‍🏫 Tech Session at iCodeGuru_
+
+|          Course Name          | Trainers | Moderators |  Status   |
+| :---------------------------: | :------: | :--------: | :-------: |
+| Python for Absolute Beginners | SN,AR,AQ |   TR,BY    | Completed |
+
 ## _⚙️ GitHub Analytics_
 
 <p align="center">
