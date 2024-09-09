@@ -88,11 +88,11 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/sikander-nawaz/"><img src="https://img.shields.io/badge/-Sikander%20Nawaz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sikandernawaz295@gmail.com"><img src="https://img.shields.io/badge/-sikandernawaz295@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://wa.me/+923134140481"><img src="https://img.shields.io/badge/-Sikander%20Nawaz-25D366?style=flat&logo=WhatsApp&logoColor=white" /></a>
+<a href="https://wa.me/+923134140481"><img src="https://img.shields.io/badge/-%2B92%20314%204140481-25D366?style=flat&logo=WhatsApp&logoColor=white" alt="WhatsApp Contact" /></a>
 
 </p>
 
-## _👨‍🏫 Tech Session at iCodeGuru_
+## _👨‍🏫 Tech Sessions at iCodeGuru_
 
 |                                                          Course Name                                                           |                                                                               Trainers                                                                                |                                                                                                            Moderators                                                                                                            |  Status   |
 | :----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: |
