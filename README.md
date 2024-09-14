@@ -102,7 +102,7 @@
 
 ## _👨‍🏫 Conduct Webinar to Spread Awareness_
 
-|                                                 Workshop Name                                                  |                                                                 Speakers                                                                 |                                   Venue                                    | Plateform |
+|                                                 Topic                                                          |                                                                 Speakers                                                                 |                                   Venue                                    | Plateform |
 | :------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------: |
 | **[Meta Hacker Cup 2024](https://drive.google.com/file/d/1pwgPCgRQZRlZ1fkCz47dhpDkj7CA5z8v/view?usp=sharing)** | [Sikander Nawaz](https://www.linkedin.com/in/sikander-nawaz/) &nbsp; [Saher Nadeem](https://www.linkedin.com/in/saher-nadeem-b32447213/) | [CAIR Society at Beaconhouse National University](https://www.bnu.edu.pk/) |   Zoom    |
 
