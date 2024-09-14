@@ -83,15 +83,6 @@
      </tr>
 </table>
 
-## _🤝 Connect with Me_
-
-<p align="center">
-<a href="https://www.linkedin.com/in/sikander-nawaz/"><img src="https://img.shields.io/badge/-Sikander%20Nawaz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sikandernawaz295@gmail.com"><img src="https://img.shields.io/badge/-sikandernawaz295@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://wa.me/+923134140481"><img src="https://img.shields.io/badge/-%2B92%20314%204140481-25D366?style=flat&logo=WhatsApp&logoColor=white" alt="WhatsApp Contact" /></a>
-
-</p>
-
 ## _👨‍🏫 Tech Sessions at iCodeGuru_
 
 |                                                          Course Name                                                           |                                                                               Trainers                                                                                |                                                                                                            Moderators                                                                                                            |  Status   |
@@ -102,9 +93,17 @@
 
 ## _👨‍🏫 Conduct Webinar to Spread Awareness_
 
-|                                                 Topic                                                          |                                                                 Speakers                                                                 |                                   Venue                                    | Plateform |
+|                                                     Topic                                                      |                                                                 Speakers                                                                 |                                   Venue                                    | Plateform |
 | :------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------: |
 | **[Meta Hacker Cup 2024](https://drive.google.com/file/d/1pwgPCgRQZRlZ1fkCz47dhpDkj7CA5z8v/view?usp=sharing)** | [Sikander Nawaz](https://www.linkedin.com/in/sikander-nawaz/) &nbsp; [Saher Nadeem](https://www.linkedin.com/in/saher-nadeem-b32447213/) | [CAIR Society at Beaconhouse National University](https://www.bnu.edu.pk/) |   Zoom    |
+
+## _🤝 Connect with Me_
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sikander-nawaz/"><img src="https://img.shields.io/badge/-Sikander%20Nawaz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sikandernawaz295@gmail.com"><img src="https://img.shields.io/badge/-sikandernawaz295@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://wa.me/+923134140481"><img src="https://img.shields.io/badge/-%2B92%20314%204140481-25D366?style=flat&logo=WhatsApp&logoColor=white" alt="WhatsApp Contact" /></a>
+</p>
 
 ## _⚙️ GitHub Analytics_
 
