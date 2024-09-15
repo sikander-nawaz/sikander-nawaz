@@ -4,7 +4,7 @@
 
 - **@[Leetcode](https://leetcode.com/u/sikander_09/)**: Solving Data Structures & Algorithms problems.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
-- **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Voluntarily taught a Duolingo course to underprivileged students.
+- **@Public**: Conduct a [webinar](https://www.linkedin.com/posts/sikander-nawaz_metaabrhackerabrcupabr2024-activity-7240238291101347842-o2Lq?utm_source=share&utm_medium=member_desktop) to spread awarness in Pakistan.
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@sikander_09) in multiple AI International Hackathons with a global team of six.
 - **@Stanford University**: [Selected](https://www.linkedin.com/feed/update/urn:li:activity:7223990886295064576/) as a Section Leader to teach Python to international students.
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184638208993873920/) at CS50x Puzzle Day 2024 by solving 9/9 complex puzzles.
