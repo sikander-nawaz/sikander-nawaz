@@ -1,4 +1,4 @@
-# <p align='center'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's Sikander Nawaz</p>
+# <p align='center'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's Sikander Nawaz.</p>
 
  <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=segoe+ui&weight=500&size=20&pause=1000&color=000000&vCenter=true&width=435&lines=Full+Stack+Developer+and+Volunteer+Trainer+😉" alt="Typing SVG" /></a> </p>
 
