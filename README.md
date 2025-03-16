@@ -12,7 +12,7 @@
 - **@Massachusetts Institute of Technology**: Participated in the **M(IT)^2 Coding Contest** and secured the [85th rank](https://www.linkedin.com/feed/update/urn:li:activity:7300904748466003971/) globally.
 - **@Advent of Code**: Achieved the [7th rank](https://www.linkedin.com/feed/update/urn:li:activity:7278453702531633152/) at the Pakistani board by solving **25 days long** complex programming challenges.
 - **Guest Speaker at Beaconhouse National University Lahore**: Deliver a webinar to spread awarness about [Meta Hacker Cup](https://www.linkedin.com/posts/sikander-nawaz_metaabrhackerabrcupabr2024-activity-7240238291101347842-o2Lq?utm_source=share&utm_medium=member_desktop) in collaboration with the CAIR Society.
-- **Guest Speaker at Bahauddin Zakariya University Multan**: Delivered webinars to spread awareness about [Code in Place](https://www.linkedin.com/feed/update/urn:li:activity:7304841239021944832/) by **Stanford University** and [CALICO]() by the **University of California** in collaboration with the CYBERIFY Society.
+- **Guest Speaker at Bahauddin Zakariya University Multan**: Delivered webinars to spread awareness about [Code in Place](https://www.linkedin.com/feed/update/urn:li:activity:7304841239021944832/) by **Stanford University** and [CALICO](https://www.linkedin.com/feed/update/urn:li:activity:7305693079888420864/) by the **University of California** in collaboration with the CYBERIFY Society.
 
 ## _🛠️ Languages and Tools_
 
