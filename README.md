@@ -5,10 +5,10 @@
 - **@[Leetcode](https://leetcode.com/u/sikander_09/)**: Solving Data Structures & Algorithms problems.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Offers volunteer teaching in Python and DSA, emphasizing LeetCode.
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@sikander_09) in multiple AI International Hackathons with a global team of six.
-- **@Meta**: Participated in the [Meta Hacker Cup 2024](https://drive.google.com/file/d/1zsn5KmZ-5hjntRdBIDAtzXzQ8obgLzeD/view?usp=sharing), where I worked on complex coding problems.
-- **@University of California**: Secured the 446th rank globally in the CALICO Coding Competition.
+- **@Meta**: Participated in the [Meta Hacker Cup 2024](https://drive.google.com/file/d/1zsn5KmZ-5hjntRdBIDAtzXzQ8obgLzeD/view?usp=sharing), where worked on complex coding problems.
 - **@Stanford University**: [Selected](https://www.linkedin.com/feed/update/urn:li:activity:7223990886295064576/) as a Section Leader to teach Python to international students.
 - **@Harvard University**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184638208993873920/) at CS50x Puzzle Day 2024 by solving 9/9 complex puzzles.
+- **@University of California**: Participated and secured the 446th rank globally in the CALICO Coding Competition.
 - **@Advent of Code**: Achieved the 7th rank at the national level by solving complex programming challenges
 - **@Massachusetts Institute of Technology**: Participated in the M(IT)^2 Coding Competition and secured the 85th rank globally.
 - **Guest Speaker at Beaconhouse National University Lahore**: Deliver a [webinar](https://www.linkedin.com/posts/sikander-nawaz_metaabrhackerabrcupabr2024-activity-7240238291101347842-o2Lq?utm_source=share&utm_medium=member_desktop) to spread awarness about **Meta Hacker Cup** in collaboration with the CAIR Society.
