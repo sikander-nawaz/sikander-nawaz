@@ -10,6 +10,7 @@
 - **@Meta**: Participated in the [Meta Hacker Cup 2024](https://drive.google.com/file/d/1zsn5KmZ-5hjntRdBIDAtzXzQ8obgLzeD/view?usp=sharing), where I worked on complex coding problems.
 - **@University of California**: Secured the 446th rank globally in the CALICO Coding Competition.
 - **@Advent of Code**: Achieved the 7th rank at the national level by solving complex programming challenges
+- **@Massachusetts Institute of Technology**: Participated in the M(IT)^2 Coding Competition and secured the 85th rank globally.
 - **Guest Speaker at Beaconhouse National University(CAIR Society)**: Deliver a [webinar](https://www.linkedin.com/posts/sikander-nawaz_metaabrhackerabrcupabr2024-activity-7240238291101347842-o2Lq?utm_source=share&utm_medium=member_desktop) to spread awarness about **Meta Hacker Cup** in Pakistan.
 
 ## _🛠️ Languages and Tools_
