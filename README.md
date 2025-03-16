@@ -7,8 +7,7 @@
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@sikander_09) in multiple AI International Hackathons with a global team of six.
 - **@Stanford University**: [Selected](https://www.linkedin.com/feed/update/urn:li:activity:7223990886295064576/) as a Section Leader to teach Python to international students.
 - **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184638208993873920/) at CS50x Puzzle Day 2024 by solving 9/9 complex puzzles.
-<!-- - **@Meta**: Participated in the [Meta Hacker Cup 2024](<img src="./images/MHC.png" alt="MHC" />), where I worked on complex coding problems. -->
-- **@Meta**: Participated in the [![MHC](./images/MHC.png)](https://example.com)
+- **@Meta**: Participated in the [Meta Hacker Cup 2024](https://drive.google.com/file/d/1zsn5KmZ-5hjntRdBIDAtzXzQ8obgLzeD/view?usp=sharing), where I worked on complex coding problems.
 - **Guest Speaker at Beaconhouse National University(CAIR Society)**: Deliver a [webinar](https://www.linkedin.com/posts/sikander-nawaz_metaabrhackerabrcupabr2024-activity-7240238291101347842-o2Lq?utm_source=share&utm_medium=member_desktop) to spread awarness about **Meta Hacker Cup** in Pakistan.
 
 ## _🛠️ Languages and Tools_
