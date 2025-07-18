@@ -22,11 +22,12 @@
           -webkit-text-fill-color: transparent;
           animation: gradientText 3s ease infinite;
         }
+        /* Default for light mode */
         .codefloat {
-          color: #fff;
+          color: #000; /* black text */
           font-size: 1em;
           font-family: Consolas, monospace;
-          text-shadow: 0 0 1px #000;
+          text-shadow: 0 0 1px #aaa;
           position: fixed;
           top: -10%;
           z-index: 9999;
@@ -37,6 +38,13 @@
           animation-timing-function: linear, ease-in-out;
           animation-iteration-count: infinite, infinite;
           animation-play-state: running, running;
+        }
+        /* Dark mode overrides */
+        @media (prefers-color-scheme: dark) {
+          .codefloat {
+            color: #fff; /* white text */
+            text-shadow: 0 0 1px #000;
+          }
         }
         @keyframes float-fall {
           0% { top: -10%; }
