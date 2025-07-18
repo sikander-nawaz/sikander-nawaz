@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/sikander-nawaz/sikander-nawaz/blob/main/name.svg" alt="sikander-nawaz" />
 </h1>
- <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&pause=1000&color=000000&center=true&width=435&lines=Full+Stack+Developer+and+Tech+Trainer+%F0%9F%98%8E" alt="Typing SVG" /></a> </p>
+ <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&pause=1000&color=00BFA6&center=true&width=435&lines=Full+Stack+Engineer+and+Tech+Trainer+%F0%9F%98%8E" alt="Typing SVG" /></a> </p>
 
 - **@[Leetcode](https://leetcode.com/u/sikander_09/)**: Solving Data Structures & Algorithms problems.
 - **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Offers volunteer teaching in **Python** and **DSA**, emphasizing LeetCode.
