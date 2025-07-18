@@ -1,5 +1,6 @@
-# <p align='center'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's Sikander Nawaz.</p>
-
+<h1 align="center">
+  <img src="https://github.com/sikander-nawaz/sikander-nawaz/blob/main/name.svg" alt="sikander-nawaz" />
+</h1>
  <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&pause=1000&color=000000&center=true&width=435&lines=Full+Stack+Developer+and+Tech+Trainer+%F0%9F%98%8E" alt="Typing SVG" /></a> </p>
 
 - **@[Leetcode](https://leetcode.com/u/sikander_09/)**: Solving Data Structures & Algorithms problems.
