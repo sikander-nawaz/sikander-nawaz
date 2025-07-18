@@ -14,78 +14,11 @@
 - **Guest Speaker at Beaconhouse National University Lahore**: Deliver a webinar to spread awarness about [Meta Hacker Cup](https://www.linkedin.com/feed/update/urn:li:activity:7240238291101347842/) in collaboration with the CAIR Society.
 - **Guest Speaker at Bahauddin Zakariya University Multan**: Delivered webinars to spread awareness about [Code in Place](https://www.linkedin.com/feed/update/urn:li:activity:7304841239021944832/) by **Stanford University** and [CALICO](https://www.linkedin.com/feed/update/urn:li:activity:7305693079888420864/) by the **University of California** in collaboration with the CYBERIFY Society.
 
-## _🛠️ Languages and Tools_
+## _🧰 Dev Toolkit_
 
-<table width="100" align='center'>
-     <tr>
-          <td align='center'>
-             <img src="./images/html.webp" alt="html" width="150px" height="100px">
-          </td>
-          <td align='center'>
-               <img src="./images/css2.png" alt="css" width="150px" height="100px">
-          </td>
-          <td align='center'>
-               <img src="./images/bootstrap.png" alt="bootstrap"width="150px" height="100px">
-          </td>
-          <td align='center'>
-               <img src="./images/JS.jpg" alt="js" width="150px" height="100px">
-          </td>
-         <td align='center'>
-             <img src="./images/react.webp" alt="react" width="150px" height="100px"/> </a>
-         </td>
-     </tr>
-     <tr>
-          <td align='center'>
-               <img src="./images/nextjs.png" alt="nextjs" width="150px" height="100px"/>
-          </td>
-          <td align='center'>
-              <img src="./images/react-native.png" alt="react-native" width="150px" height="100px">
-         </td>
-          <td align='center'>
-              <img src="./images/firebase.png" alt="firebase" width="150px" height="100px">
-         </td>
-         <td align='center'>
-             <img src="./images/cloud-firestore.jpg" alt="firestore" width="150px" height="100px">
-         </td>
-         <td align='center'>
-               <img src="./images/express-js.png" alt="expressJS" width="150px" height="100px">
-         </td>
-     </tr>
-     <tr>
-          <td align='center'>
-             <img src="./images/node-js.webp" alt="nodeJS" width="150px" height="100px"/> </a>
-         </td>
-          <td align='center'>
-               <img src="./images/mongo-db.png" alt="mongoDB" width="150px" height="100px"/>
-          </td>
-          <td align='center'>
-               <img src="./images/postman.png" alt="postman" width="150px" height="100px"/>
-          </td>
-          <td align='center'>
-               <img src="./images/sass.png" alt="sass" width="150px" height="100px"/>
-          </td>
-          <td align='center'>
-               <img src="./images/scss.webp" alt="mongo-db" width="150px" height="100px"/>
-          </td>
-     </tr>
-     <tr>
-          <td align='center'>
-               <img src="./images/python.png" alt="sass" width="150px" height="100px"/>
-          </td>
-          <td align='center'>
-               <img src="./images/DSA.jpg" alt="dsa" width="150px" height="100px"/>
-          </td>
-          <td align='center'>
-               <img src="./images/vscode.svg" alt="vscode" width="150px" height="100px"/>
-          </td>
-          <td align='center'>
-               <img src="./images/git.webp" alt="git" width="150px" height="100px"/>
-          </td>
-          <td align='center'>
-               <img src="./images/Github.png" alt="github" width="150px" height="100px"/>
-          </td>
-     </tr>
-</table>
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vite,reactrouter,redux,materialui,shadcnui,nextjs,reactnative,figma,npm,nodejs,express,ejs,mongodb,jwt,firebase,python,streamlit,,googlecolaboratory,postman,git,github,githubcopilot,vscode,vercel,netlify,notion,slack,trello,discord,chatgpt" />
+</p>
 
 ## _👨‍🏫 Tech Sessions at iCodeGuru_
 
