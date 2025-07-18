@@ -11,7 +11,7 @@
           font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
             Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
           margin: 0;
-          font-size: 3em;
+          font-size: 2em;
           font-weight: 900;
           letter-spacing: -0.05em;
           text-align: center;
@@ -22,59 +22,8 @@
           -webkit-text-fill-color: transparent;
           animation: gradientText 3s ease infinite;
         }
-        /* Default for light mode */
-        .codefloat {
-          color: #000; /* black text */
-          font-size: 1em;
-          font-family: Consolas, monospace;
-          text-shadow: 0 0 1px #aaa;
-          position: fixed;
-          top: -10%;
-          z-index: 9999;
-          user-select: none;
-          cursor: default;
-          animation-name: float-fall, float-shake;
-          animation-duration: 10s, 3s;
-          animation-timing-function: linear, ease-in-out;
-          animation-iteration-count: infinite, infinite;
-          animation-play-state: running, running;
-        }
-        /* Dark mode overrides */
-        @media (prefers-color-scheme: dark) {
-          .codefloat {
-            color: #fff; /* white text */
-            text-shadow: 0 0 1px #000;
-          }
-        }
-        @keyframes float-fall {
-          0% { top: -10%; }
-          100% { top: 100%; }
-        }
-        @keyframes float-shake {
-          0% { transform: translateX(0px); }
-          50% { transform: translateX(80px); }
-          100% { transform: translateX(0px); }
-        }
-        .codefloat:nth-of-type(1) { left: 10%; animation-delay: 1s, 1s; }
-        .codefloat:nth-of-type(2) { left: 20%; animation-delay: 6s, 0.5s; }
-        .codefloat:nth-of-type(3) { left: 30%; animation-delay: 4s, 2s; }
-        .codefloat:nth-of-type(4) { left: 40%; animation-delay: 2s, 2s; }
-        .codefloat:nth-of-type(5) { left: 50%; animation-delay: 8s, 3s; }
-        .codefloat:nth-of-type(6) { left: 60%; animation-delay: 6s, 2s; }
-        .codefloat:nth-of-type(7) { left: 70%; animation-delay: 2.5s, 1s; }
-        .codefloat:nth-of-type(8) { left: 80%; animation-delay: 1s, 0s; }
-        .codefloat:nth-of-type(9) { left: 90%; animation-delay: 3s, 1.5s; }
       </style>
       <h1>Sikander Nawaz</h1>
-      <div class="codefloat">{ }</div>
-      <div class="codefloat">&lt;/&gt;</div>
-      <div class="codefloat">const</div>
-      <div class="codefloat">function()</div>
-      <div class="codefloat">&lt;div&gt;</div>
-      <div class="codefloat">return()</div>
-      <div class="codefloat">let</div>
-      <div class="codefloat">async</div>
-      <div class="codefloat">await</div>
     </div>
   </foreignObject>
 </svg>
