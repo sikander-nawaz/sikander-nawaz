@@ -25,7 +25,7 @@
 ## _🧰 Dev Toolkit_
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vite,reactrouter,redux,materialui,shadcnui,nextjs,reactnative,figma,npm,nodejs,express,ejs,mongodb,jwt,firebase,python,streamlit,,googlecolaboratory,postman,git,github,githubcopilot,vscode,vercel,netlify,notion,slack,trello,discord,chatgpt" />
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vite,reactrouter,redux,materialui,shadcnui,nextjs,reactnative,figma,npm,nodejs,express,ejs,mongodb,jwt,firebase,python,streamlit,,googlecolaboratory,numpy,postman,git,github,githubcopilot,vscode,vercel,netlify,notion,slack,trello,discord,chatgpt" />
 </p>
 
 ## _👨‍🏫 Tech Sessions at iCodeGuru_
