@@ -4,7 +4,8 @@
 
 <p align="center" width="500px">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=%23000000&center=true&vCenter=true&random=false&width=450&lines=Welcome+to+my+GitHub+profile+%F0%9F%98%87;Happy+to+see+you+here+%F0%9F%98%80;Specializing+in+Full+Stack+Development+%F0%9F%92%BB;Building+Creative+and+Responsive+Web+Apps+%F0%9F%8C%90;Let's+Collaborate+on+Amazing+Projects+%F0%9F%A4%9D;Feel+Free+to+Reach+Out+%F0%9F%A4%97;Have+a+Great+Day+%F0%9F%98%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=450&lines=Welcome+to+my+GitHub+profile+%F0%9F%98%87;Happy+to+see+you+here+%F0%9F%98%80;Specializing+in+Full+Stack+Development+%F0%9F%92%BB;Building+Creative+and+Responsive+Web+Apps+%F0%9F%8C%90;Let's+Collaborate+on+Amazing+Projects+%F0%9F%A4%9D;Feel+Free+to+Reach+Out+%F0%9F%A4%97;Have+a+Great+Day+%F0%9F%98%8A" alt="Typing SVG" />
+
   </a>
 </p>
 
@@ -56,8 +57,8 @@
 
 <p align="center">
      <a href="https://github.com/sikander-nawaz">
-          <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sikander-nawaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sikander-nawaz&layout=compact&langs_count=8&theme=algolia"/>
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sikander-nawaz&layout=compact&langs_count=10&theme=algolia"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sikander-nawaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
      </a>
-   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sikander-nawaz&show_icons=true&locale=en&layout=demo&theme=github-dark-blue&hide_border=true"/>  
+   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sikander-nawaz&show_icons=true&locale=en&layout=demo&theme=github-dark-blue&hide_border=true"/>  
 </p>
