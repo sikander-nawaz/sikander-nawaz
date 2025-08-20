@@ -57,8 +57,8 @@
 
 <p align="center">
      <a href="https://github.com/sikander-nawaz">
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sikander-nawaz&layout=compact&langs_count=10&theme=algolia&hide_border=true"/>
        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sikander-nawaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
      </a>
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sikander-nawaz&layout=compact&langs_count=10&theme=algolia&hide_border=true"/>
    <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=sikander-nawaz&show_icons=true&locale=en&layout=demo&theme=github-dark-blue&hide_border=true"/>  
 </p>
