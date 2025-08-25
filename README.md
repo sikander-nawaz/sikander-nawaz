@@ -12,7 +12,7 @@
 <!-- <p align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&pause=1000&color=00BFA6&center=true&width=435&lines=Full+Stack+Engineer+and+Tech+Trainer+%F0%9F%98%8E" alt="Typing SVG" /></a> </p> -->
 
 - **@[Leetcode](https://leetcode.com/u/sikander_09/)**: Solving Data Structures & Algorithms problems.
-- **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Offers volunteer teaching in **Python** and **DSA**, emphasizing LeetCode.
+- **@[iCodeGuru](https://linkedin.com/company/icode-guru/)**: Offers volunteer teaching in **Python**, **DSA** (with a focus on LeetCode), and **IELTS** sessions.
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@sikander_09) in multiple AI International Hackathons with a global team of six.
 - **@Meta**: Participated in the [Meta Hacker Cup 2024](https://drive.google.com/file/d/1zsn5KmZ-5hjntRdBIDAtzXzQ8obgLzeD/view?usp=sharing), where worked on complex coding problems.
 - **@Stanford University**: Selected as a [Section Leader](https://www.linkedin.com/feed/update/urn:li:activity:7223990886295064576/) to teach Keral and Python to international students.
