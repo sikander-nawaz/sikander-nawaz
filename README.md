@@ -16,7 +16,7 @@
 - **@lablab.ai**: [Participated](https://lablab.ai/u/@sikander_09) in multiple AI International Hackathons with a global team of six.
 - **@Meta**: Participated in the [Meta Hacker Cup 2024](https://drive.google.com/file/d/1zsn5KmZ-5hjntRdBIDAtzXzQ8obgLzeD/view?usp=sharing), where worked on complex coding problems.
 - **@Stanford University**: Selected as a [Section Leader](https://www.linkedin.com/feed/update/urn:li:activity:7223990886295064576/) to teach Keral and Python to international students.
-- **@Harvard University**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184638208993873920/) at **CS50x Puzzle Day 2024** by solving 9/9 complex puzzles.
+- **@Harvard University**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184638208993873920/) at **CS50x Puzzle Day** in both **2024** & **2025**, solving all 9/9 complex puzzles (2× winner).
 - **@University of California**: Participated and secured the **446th rank** globally in the [CALICO](https://www.linkedin.com/feed/update/urn:li:activity:7276598017439232000/) Coding Competition.
 - **@Massachusetts Institute of Technology**: Participated in the **M(IT)^2 Coding Contest** and secured the [85th rank](https://www.linkedin.com/feed/update/urn:li:activity:7300904748466003971/) globally.
 - **@Advent of Code**: Achieved the [7th rank](https://www.linkedin.com/feed/update/urn:li:activity:7278453702531633152/) at the Pakistani board by solving **25 days long** complex programming challenges.
